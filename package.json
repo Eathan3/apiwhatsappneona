@@ -12,11 +12,12 @@
   "keywords": [],
   "dependencies": {
     "@builderbot/bot": "1.1.5",
-    "@builderbot/provider-meta": "1.1.5"
+    "@builderbot/provider-meta": "1.1.5",
+    "dotenv": "^16.4.5"
   },
   "devDependencies": {
-    "eslint-plugin-builderbot": "latest",
     "eslint": "^8.57.0",
+    "eslint-plugin-builderbot": "latest",
     "nodemon": "^3.1.0"
   },
   "author": "",
